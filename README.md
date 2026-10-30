@@ -2,7 +2,7 @@
 
 **Full Name:** Muhammad Mughees Arif  
 **Assessment Reference:** MATACS-TH-2026-02  
-**Actual Time Spent:** Approximately 3 hours
+**Actual Time Spent:** Approximately 2 hours
 
 ## Project Overview
 
