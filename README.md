@@ -1,4 +1,4 @@
-# MATACS Technical Assessment — AI Proposal Triage
+# MATACS Technical Assessment AI Proposal Triage
 
 **Full Name:** Muhammad Mughees Arif  
 **Assessment Reference:** MATACS-TH-2026-02  
@@ -23,7 +23,7 @@ I used ChatGPT to help structure the system design, identify potential edge case
 
 I reviewed the suggestions against the assessment requirements and made decisions about which responsibilities should belong to AI, backend code, and human reviewers.
 
-**Example of a correction:** An initial suggestion could treat a licensed subcontractor as equivalent to the bidder holding the required electrical contractor licence. I did not accept that assumption because the assessment explicitly requires the bidder itself to hold and state its Ontario electrical contractor licence. Therefore, BrightPath is flagged for clarification rather than automatically marked as eligible.
+**Example of a correction:** An initial suggestion could treat a licensed subcontractor as equivalent to the bidder holding the required electrical contractor licence. I did not accept that assumption because the assessment explicitly requires the bidder itself to hold and state its Ontario electrical contractor licence. Therefore, Proposal B is flagged for clarification rather than automatically marked as eligible.
 
 ## Scoring Assumptions
 
