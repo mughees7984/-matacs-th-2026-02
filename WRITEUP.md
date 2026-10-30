@@ -1,4 +1,4 @@
-# AI Proposal Triage — Design Write-up
+# AI Proposal Triage Design Write-up
 
 **Assessment Reference:** MATACS-TH-2026-02
 
