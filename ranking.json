@@ -1,3 +1,4 @@
+
 {
   "assessment_reference": "MATACS-TH-2026-02",
   "currency": "CAD",
@@ -19,7 +20,6 @@
   "proposals": [
     {
       "proposal_id": "A",
-      "company": "Northshore",
       "status": "ranked",
       "rank": 1,
       "score": 88.75,
@@ -35,11 +35,10 @@
         "warranty": 100,
         "team_approach": 100
       },
-      "reason": "All mandatory requirements are confirmed. Northshore has 14 qualifying installations, a CAD 238000 price, a 12-week schedule, 25-year panel warranty, 10-year workmanship warranty, and a complete team and approach."
+      "reason": "All mandatory requirements are confirmed. Proposal A has 14 qualifying installations, a CAD 238000 price, a 12-week schedule, 25-year panel warranty, 10-year workmanship warranty, and a complete team and approach."
     },
     {
       "proposal_id": "B",
-      "company": "BrightPath",
       "status": "flagged",
       "rank": null,
       "score": null,
@@ -48,11 +47,10 @@
         "wsib_clearance": "pass",
         "liability_insurance_5m": "pass"
       },
-      "reason": "BrightPath states that electrical work will be performed by a licensed subcontractor, but does not confirm that the bidder itself holds the required Ontario electrical contractor licence. Request clarification. If the bidder confirms it does not hold the licence, mark it ineligible."
+      "reason": "Proposal B states that electrical work will be performed by a licensed subcontractor, but does not confirm that the bidder itself holds the required Ontario electrical contractor licence. Request clarification. If the bidder confirms it does not hold the licence, mark it ineligible."
     },
     {
       "proposal_id": "C",
-      "company": "Lakeview",
       "status": "flagged",
       "rank": null,
       "score": null,
@@ -66,7 +64,6 @@
     },
     {
       "proposal_id": "D",
-      "company": "Essex Green",
       "status": "flagged",
       "rank": null,
       "score": null,
@@ -75,11 +72,10 @@
         "wsib_clearance": "pass",
         "liability_insurance_5m": "pass"
       },
-      "reason": "The proposal does not provide a confirmed completion schedule. The schedule will be determined after a site assessment. Request clarification before ranking; do not assume that the 16-week requirement can be met."
+      "reason": "Proposal D does not provide a confirmed completion schedule. The schedule will be determined after a site assessment. Request clarification before ranking; do not assume that the 16-week requirement can be met."
     },
     {
       "proposal_id": "E",
-      "company": "SunGrid",
       "status": "ranked",
       "rank": 2,
       "score": 81.35,
@@ -95,7 +91,7 @@
         "warranty": 100,
         "team_approach": 100
       },
-      "reason": "All mandatory requirements are confirmed. SunGrid has eight qualifying installations, a CAD 242500 price, a 13-week schedule, 25-year panel warranty, 12-year workmanship warranty, and a complete team and approach."
+      "reason": "All mandatory requirements are confirmed. Proposal E has eight qualifying installations, a CAD 242500 price, a 13-week schedule, 25-year panel warranty, 12-year workmanship warranty, and a complete team and approach."
     }
   ],
   "ranking_note": "Only proposals cleared for ranking receive a numeric score and rank. Proposals B, C, and D remain flagged pending clarification or human review. No confirmed mandatory failure is established by the supplied information."
